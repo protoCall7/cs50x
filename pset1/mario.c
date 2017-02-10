@@ -1,3 +1,8 @@
+// mario.c
+// CS50x pset 1
+// a program that prints out a half-pyramid of a specified height
+// Peter H. Ezetta (protocall7@gmail.com)
+
 #include <cs50.h>
 #include <stdio.h>
 

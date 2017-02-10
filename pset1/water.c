@@ -1,3 +1,8 @@
+// water.c
+// CS50x pset 1
+// a program that reports a user’s water usage, converting minutes spent in the shower to bottles of drinking water.
+// Peter H. Ezetta (protocall7@gmail.com
+
 #include <stdio.h>
 #include <cs50.h>
 

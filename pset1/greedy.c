@@ -1,3 +1,8 @@
+// greedy.c
+// CS50x pset 1
+// a program that calculates the minimum number of coins required to give a user change.
+// Peter H. Ezetta (protocall7@gmail.com)
+
 #include <cs50.h>
 #include <math.h>
 #include <stdio.h>
